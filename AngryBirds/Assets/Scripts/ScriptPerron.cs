@@ -6,6 +6,7 @@ public class ScriptPerron : MonoBehaviour
     void Start()
     {
         print("Yo soy el Script Perrón");
+        print("Come frutas y verduras");
     }
 
     // Update is called once per frame
