@@ -5,7 +5,7 @@ public class ScriptPerron : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        print("Yo soy el Script Perrón");
+        print("Usa botas");
         print("Come frutas y verduras");
     }
 
