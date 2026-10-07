@@ -7,6 +7,7 @@ public class ScriptPerron : MonoBehaviour
     {
         print("Usa botas");
         print("Come frutas y verduras");
+        print("Llévate sombrilla");
     }
 
     // Update is called once per frame
